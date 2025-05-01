@@ -97,6 +97,5 @@ Este projeto tem como finalidade:
 
 ### 👤 Autor
 **Erick Sousa**  
-Estudante de Engenharia de Controle e Automação  
-Especialista em dados aplicados à energia e transporte  
+Estudante de Engenharia de Controle e Automação
 [LinkedIn](https://www.linkedin.com/in/erick-sousa-b4183a214/)
